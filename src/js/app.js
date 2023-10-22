@@ -1,4 +1,4 @@
-import ArrayBufferConverter from './bufferConverter';
-
-const data = ArrayBufferConverter.getBuffer();
-console.log(data);
+// import ArrayBufferConverter from './bufferConverter';
+//
+// const data = ArrayBufferConverter.getBuffer();
+// console.log(data);
